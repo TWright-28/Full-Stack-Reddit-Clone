@@ -15,7 +15,7 @@ COSC 360 Proposal
    
    # Project Roles
    
-    *Superusers have all the permissions as the roles below them*
+    _Superusers have all the permissions as the roles below them_
    
      - Admin
         - Delete users, comments and threads as well as manage moderators
