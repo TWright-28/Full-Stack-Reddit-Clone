@@ -1,21 +1,21 @@
 # COSC 360
 COSC 360 Proposal
 
-#Team Member Selections 
+# Team Member Selections 
   - Tanner Wright
   - Andrew Dunn
 
-#Project Description and Requirements
+# Project Description and Requirements
 
 
-  #Description 
+  # Description 
   
     -Forum Website (JEMS-EH) which will allow users to view and registered users to create and comment on threads. 
     -Users can view by categories as well as add to a specific category.
    
-   #Project Roles
+   # Project Roles
    
-    * Superusers have all the permissions as the roles below them *
+    *Superusers have all the permissions as the roles below them*
    
      - Admin
         - Delete users, comments and threads as well as manage moderators
@@ -34,7 +34,7 @@ COSC 360 Proposal
         - View threads and posts on the forum page
     
    
-  #Project Requirements 
+  # Project Requirements 
     - Hand-styled layout with contextual menus (i.e. when user has logged on to site, menus reflect change)
     - Form validation with JavaScript
     - Data storage in MySQL
@@ -48,7 +48,7 @@ COSC 360 Proposal
     - Error handling 
     - Collapsible items
     
-    #Additional Requirements 
+    # Additional Requirements 
       - Friends list and friend page
       - Search function 
       - Privacy settings for users 
