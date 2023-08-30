@@ -1,9 +1,6 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/enf2qyfT)
 # COSC 360
 COSC 360 Proposal
-
-# Team Member Selections 
-  - Tanner Wright
-  - Andrew Dunn
 
 ## Project Description and Requirements
 
@@ -21,9 +18,9 @@ COSC 360 Proposal
 - View Statistics of the website
 - Have the ability to filter information of the site and threads
         
-- Moderator 
+- Moderator (Thread creator)
 - Delete posts and comments from specific threads within specific categories 
-- Enforce and set rules on categories
+- Enforce and set rules on thread
         
 - User 
 - Create, delete and comment on threads
