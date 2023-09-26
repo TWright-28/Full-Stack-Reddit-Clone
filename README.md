@@ -1,11 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/enf2qyfT)
 # Full Stack Reddit Clone
-
-## Project Description and Requirements
-
   ### Description 
   
-  - Forum Website (JEMS-EH) which will allow users to view and registered users to create and comment on threads. 
+  - Forum Website similar to Reddit which will allow users to view and registered users to create and comment on threads. 
   - Users can view by categories as well as add to a specific category.
 
 ## Project Roles
